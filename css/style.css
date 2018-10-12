@@ -1,0 +1,22 @@
+.button{
+  display: inline-block;
+  padding: 10px;
+  padding-right: 30px;
+  padding-left: 30px;
+  background-color:#26C9A3;
+  color: white;
+  font-family:微軟正黑體;
+  font-weight:bold;
+  letter-spacing: 1.5px;
+}
+.button:hover{
+  background-color: #4efeb3;
+  color:#006030;
+}
+.nav_ul{
+  background-color:#26C9A3;
+}
+.body_content{
+  max-width: 100%;
+  margin: auto;
+}
